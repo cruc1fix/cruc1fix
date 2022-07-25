@@ -1,5 +1,5 @@
 <p align="center">  
-<img src="https://media.discordapp.net/attachments/993417370578198568/996148813188313219/unknown.png">
+<img src="https://media.discordapp.net/attachments/991837424139382835/1000941506842079262/IMG_0399.jpg?width=1259&height=676">
 </p>
 <p align="center">
    fade
