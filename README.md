@@ -7,7 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=federa1&color=grey">
 </p>
 <p align="center">
-Currently Working
+Currently Listening to Music
 <p align="center">
     <a href="https://doxbin.com/user/invoked">دوكسبين</a>
 
