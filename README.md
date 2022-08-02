@@ -1,5 +1,5 @@
 <p align="center">  
-<img src="https://media.discordapp.net/attachments/996273367294427148/1003911033473220608/wallhaven-z82d1o.jpg?width=750&height=422">
+<img src="https://images-ext-2.discordapp.net/external/acf39htQC3YLb1-_JKRCx-YBi4oejuD2kzHqkm-sskM/%3Fsize%3D1024/https/cdn.discordapp.com/banners/514165753323323412/01772322f1d0b289a7f4b1857d5ea7c8.png?width=499&height=199">
 </p>
 <p align="center">
     ╚═════════════⛧═══════════════════+⋅ ⋅✟⋅ ⋅+════════════════════⛧═════════════╝
