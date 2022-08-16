@@ -1,5 +1,5 @@
 <p align="center">  
-<img src="https://images-ext-2.discordapp.net/external/acf39htQC3YLb1-_JKRCx-YBi4oejuD2kzHqkm-sskM/%3Fsize%3D1024/https/cdn.discordapp.com/banners/514165753323323412/01772322f1d0b289a7f4b1857d5ea7c8.png?width=499&height=199">
+<img src="https://media.discordapp.net/attachments/1002895928535035944/1009110811114999949/a_c649b41ddc09dd56c1d8f9c0fc96d558.gif?width=384&height=154">
 </p>
 <p align="center">
     ╚═════════════⛧═══════════════════+⋅ ⋅✟⋅ ⋅+════════════════════⛧═════════════╝
@@ -7,7 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=cruc1fix&color=grey">
 </p>
 <p align="center">
-Currently Sleeping
+probably listening to music
 <p align="center">
     <a href="https://federal.federa1.repl.co">exe</a>
 
