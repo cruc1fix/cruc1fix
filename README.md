@@ -1,5 +1,5 @@
 <p align="center">  
-<img src="https://media.discordapp.net/attachments/972533899462836334/1027000859462221934/45296D3A-96BA-4DFB-A5C0-6B19672C2FFF.gif?width=356&height=197">
+<img src="https://media.discordapp.net/attachments/911131501154938930/1045999366453866556/pfps-HV8DOn.gif?width=353&height=147">
 </p>
 <p align="center">
     ╚═════════════⛧═══════════════════+⋅ ⋅✟⋅ ⋅+════════════════════⛧═════════════╝
